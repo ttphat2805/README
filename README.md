@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Tan Phat
 #### Web Design & Development
 ![Web Design & Development](https://media-exp1.licdn.com/dms/image/C5616AQG2eOSl3V4uFA/profile-displaybackgroundimage-shrink_350_1400/0/1639071252906?e=1644451200&v=beta&t=Kg1sgDAVgMBKqBzhYwtdLQ1ebA_zEVFKFwx421WWIiE)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttphat2805&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttphat2805&theme=dark&show_icons=true) <br/>
 I'm a student and i love coding 
 
 ## My skills :fire::
