@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Tan Phat
 #### Web Design & Development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttphat2805&theme=dark&show_icons=true) <br/>
+) <br/>
 I'm a student and i love coding 
 
 ## My skills :fire::
